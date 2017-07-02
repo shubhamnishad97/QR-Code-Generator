@@ -3,21 +3,21 @@
       "page": "background.html"
    },
    "browser_action": {
-      "default_icon": "icon16.png",
+      "default_icon": "icon48.png",
       "default_popup": "popup.html",
-      "default_title": "Quick QR Code Generator!"
+      "default_title": "QR code Fast and Simple"
    },
   
-   "description": "A super handy QR Code Generator / Creator for you.",
+   "description": "Generate fast and simple QR Code for easy sharing",
    "icons": {
-      "128": "icon128.png",
-      "16": "icon16.png",
+      "144": "icon144.png",
+      
       "48": "icon48.png"
    },
   
    "manifest_version": 2,
    "minimum_chrome_version": "19",
-   "name": "Quick QR Code Generator",
+   "name": "QR Code Generator",
    "options_page": "options.html",
    "permissions": [ "tabs", "contextMenus" ],
    "short_name": "Quick QR",
