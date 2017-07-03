@@ -12,6 +12,7 @@ function qr_create() {
     // correctLevel: 0,
     text: text
   });
+  save();
 }
 
 $(function(){
@@ -22,3 +23,9 @@ $(document).ready(function(){
   $('#create').on('click', qr_create);
   $("#input").on('change keyup paste', qr_create);
 });
+
+function save() {
+  var link = $("#save")[0];
+  link.download = 'qrcode.png';/// set a filename or a default
+  link.href = $('#output > canvas')[0].toDataURL();
+}
