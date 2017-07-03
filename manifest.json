@@ -15,7 +15,6 @@
    "manifest_version": 2,
    "minimum_chrome_version": "19",
    "name": "QR Code Generator",
-   "options_page": "options.html",
    "permissions": [ "tabs", "contextMenus" ],
    "short_name": "Quick QR",
   
