@@ -1,15 +1,15 @@
 {
    "browser_action": {
-      "default_icon": "icon48.png",
+      "default_icon": "icon/icon48.png",
       "default_popup": "popup.html",
       "default_title": "QR code Fast and Simple"
    },
   
    "description": "Generate fast and simple QR Code for easy sharing",
    "icons": {
-      "144": "icon144.png",
+      "144": "icon/icon144.png",
       
-      "48": "icon48.png"
+      "48": "icon/icon48.png"
    },
   
    "manifest_version": 2,
