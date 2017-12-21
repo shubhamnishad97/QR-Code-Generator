@@ -1,4 +1,6 @@
 <img src="icon144.png" width="144">
+
+
 # QR-Code-Generator 
 Generate fast and simple QR codes for sharing. Download the extension [here](https://github.com/shubhamnishad97/QR-Code-Generator/raw/master/QR%20Code%20Generator.crx)
 
@@ -9,7 +11,7 @@ This is one part of my QRCode sharing project. The other part is located [here](
 
 ## Features:
 
-*   Standalone QRcode generation(doesn't depend on external services). 
+*   Standalone QRcode generation (doesn't depend on external services). 
 *   Option to save the generated code as image on local machine.
 *   Simple and Intuitive design.
 
