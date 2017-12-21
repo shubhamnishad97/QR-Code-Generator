@@ -1,4 +1,4 @@
-<img src="icon144.png" width="144">
+<img src="icon/icon144.png" width="144">
 
 
 # QR-Code-Generator 
@@ -18,8 +18,10 @@ This is one part of my QRCode sharing project. The other part is located [here](
 
 
 
-      <img src="docs/success.png" width="250">      <img src="docs/invalid.png" width="250">
-![](docs/full.PNG) 
+      <img src="docs/Capture.PNG">      <img src="docs/name.PNG">
+      
+      
+![](docs/web.PNG) 
 
 
 
